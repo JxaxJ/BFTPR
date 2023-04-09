@@ -9,8 +9,6 @@
 **A simple program with UI in PyQt5 to output all files/directories from ####. \
 It was created as part of a competition of the #### club.**
 
-***
-
 # How to run?
 
 1. **Open the key.py file with any editor**
